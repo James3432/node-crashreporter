@@ -1,6 +1,6 @@
 {
   "name": "crashreporter",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Dump node context into a file on process crash, send it by mail",
   "main": "lib/crashreporter.js",
   "scripts": {
